@@ -1,4 +1,5 @@
 # Web Scraping Project using Selenium and BeautifulSoup 
+Python 3.10.9
 
 Run the main.py -
 -- Fetches categories listed in assets/csv/category_list.csv
